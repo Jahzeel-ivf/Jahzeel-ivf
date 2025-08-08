@@ -21,10 +21,10 @@ My focus is on blending **design and functionality** to build seamless user expe
 
 
 📫 **Let’s Connect!**  
-- [LinkedIn](#https://www.linkedin.com/in/jahzeel-vargas-833513285/)  
+- [LinkedIn](https://www.linkedin.com/in/jahzeel-vargas-833513285/)  
 - [Portfolio Website](#)  
 - [Email](mailto:jahzeel.ivf@gmail.com)
-- [Uiverse](#https://uiverse.io/profile/Jahzeel-ivf)
+- [Uiverse](https://uiverse.io/profile/Jahzeel-ivf)
 
 ## GitHub Stats
 
