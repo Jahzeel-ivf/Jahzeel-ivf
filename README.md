@@ -28,9 +28,6 @@ My focus is on blending **design and functionality** to build seamless user expe
 
 ## GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jahzeel-ivf&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jahzeel-ivf&hide_border=true&border_radius=4.7" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahzeel-ivf" alt="Top Languages" />
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahzeel-ivf)](https://github.com/Jahzeel-ivf/github-readme-stats)
