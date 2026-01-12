@@ -13,7 +13,7 @@ My focus is on blending **design and functionality** to build seamless user expe
 🚀 **Technologies & Tools**  
 - **Languages:** HTML, CSS, JavaScript, TypeScript  
 - **Frameworks & Libraries:** React, Vue, Tailwind CSS, Bootstrap  
-- **Tools:** Git, GitHub, Figma, VS Code, Firebase  
+- **Tools:** Git, GitHub, Figma, VS Code, Firebase, MySQL and MongoDB
 
 🎯 **Goals**  
 - Keep improving my skills in modern front-end ecosystems  
