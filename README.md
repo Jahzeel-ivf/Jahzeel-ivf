@@ -26,7 +26,7 @@ to create experiences that users can trust and enjoy.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,firebase,mysql,mongodb,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,mysql,mongodb,git,github,vscode,figma" />
 
 </p>
 
