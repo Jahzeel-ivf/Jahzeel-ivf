@@ -77,7 +77,7 @@ Let's connect and build something amazing together 🚀
 <img src="https://img.shields.io/badge/LinkedIn-Jahzeel%20Vargas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/TU_USUARIO" target="_blank">
+<a href="https://instagram.com/jahzeel_frias/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-@TU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
