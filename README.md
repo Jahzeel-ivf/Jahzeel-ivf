@@ -78,7 +78,7 @@ Let's connect and build something amazing together 🚀
 </a>
 
 <a href="https://instagram.com/jahzeel_frias/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@TU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-@jahzeel_frias-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:jahzeel.ivf@gmail.com">
