@@ -52,11 +52,6 @@ to create experiences that users can trust and enjoy.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahzeel-ivf&theme=tokyo-night&hide_border=true"/>
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jahzeel-ivf&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
